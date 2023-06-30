@@ -1,1 +1,2 @@
-# cse150a-summer2023
+# CSE 150A SU23
+
