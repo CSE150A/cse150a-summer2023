@@ -15,7 +15,7 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-[Jump to the current week](#week-9-code-sklearn-code-pipelines-generalization-and-cross-validation){: .btn }
+[Jump to the current week](#week-1-probability-basics){: .btn }
 <!-- [Recordings](https://podcast.ucsd.edu/){: .btn .btn-blue } -->
 
 
